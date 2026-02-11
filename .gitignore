@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.agents/
+chrome_profile/
+.DS_Store
+tmp/
